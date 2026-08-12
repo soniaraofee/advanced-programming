@@ -1,0 +1,103 @@
+# =========================
+# C++
+# =========================
+
+# Build files
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Compiled files
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.lib
+*.dll
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.vcxproj.user
+
+
+# =========================
+# C#
+# =========================
+
+# Build folders
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Rider
+.idea/
+
+# NuGet
+packages/
+*.nupkg
+
+# Test results
+TestResults/
+*.trx
+
+
+# =========================
+# Python
+# =========================
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# pytest
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+
+# Ruff
+.ruff_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+
+# =========================
+# IDE / Editors
+# =========================
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
